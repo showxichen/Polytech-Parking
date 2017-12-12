@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3f51b5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+
+
+    <!-- Couleurs pour les items selectionnés dans la recyclerview-->
+    <drawable name="itempressed">#908e8e</drawable>
+            <drawable name="itemSelected">#a3a3a1</drawable>
+</resources>

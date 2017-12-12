@@ -1,0 +1,30 @@
+<resources>
+    <string name="app_name">Polytech Parking</string>
+
+
+
+
+
+
+
+    <!--Activité Visualisation des parking réservé  -->
+    <string name="parking_r_serv">Parking réservé</string>
+    <string name="nom_parking_reserve">Nom_parking_reserve</string>
+    <string name="signaler_votre_sortie">Signaler votre sortie</string>
+
+    <!--Acitivté Confirmation après selection d'un parking -->
+    <string name="annuler">Annuler</string>
+    <string name="confirmer">Confirmer</string>
+    <string name="vous_avez_s_lectionn">Vous avez sélectionné:</string>
+
+    <!--Activité Vue Liste Parking -->
+    <string name="places">places</string>
+
+
+    <!-- Acceuil -->
+    <string name="polytech_parking">Polytech Parking</string>
+    <string name="reserver_votre_place_de_parking">Reserver votre place de parking</string>
+    <string name="voir_les_reservations_en_cours">VOIR LES RESERVATIONS EN COURS</string>
+
+
+</resources>

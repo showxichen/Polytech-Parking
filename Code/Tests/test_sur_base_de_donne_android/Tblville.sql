@@ -1,0 +1,14 @@
+CREATE DATABASE testtutoparking;
+SHOW DATABASES;
+USE testtutoparking;
+CREATE TABLE tblville(`ID_ville` int(2) AUTO_INCREMENT,`Nom_ville` VARCHAR(30),`Num_ville` int(2), PRIMARY KEY (`ID_ville`)  );
+INSERT INTO tblville(`ID_ville`,`Nom_ville`,`Num_ville`) 
+VALUES (NULL, 'SITE VINCI',30),
+(NULL, 'RESIDENCE DES CHARMES',30),
+(NULL, 'RESIDENCE ARISTOTE', 30),
+(NULL, 'RUE DE CHARTRES', 30),
+(NULL, 'UNIVERSITE CHATEAU',30),
+(NULL, 'SITE GALILEE PUBLIC',30),
+(NULL, 'SITE GALILEE PRIVEE',30),
+(NULL, 'IUT',30);
+SELECT * FROM tblville;
